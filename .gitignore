@@ -1,0 +1,6 @@
+./webshop/node_modules
+./webshop/.cache
+./webshop/.vscode
+./webshop/.env
+./webshop-storefront/node_modules
+./webshop-storefront/.env
