@@ -5,6 +5,18 @@
 In diesem Projekt verwenden wir Medusa Js. Medusa js ist ein OpenSource webshop framework mit eigenem Eco-System. Es besteht aus einer Storefront Applikation und Admin Applikation.
 In der Admin pannel können Produkte hinzugefügt und Attribute angepasst werden. Sobald Änderungen unternommen wird, ist est auf dem storefront aktualisiert.
 
+## Projekt
+
+Wir haben uns für Medusa JS entschieden, weil es im Gegensatz zu Shopify technisch anspruchsvoller ist. Medusa JS verfügt über eine sehr detaillierte Dokumentation, die viele Aspekte, wie z.B die Wahl der Datenbanken, vorschreibt. Medusa JS gibt vor, Postgres und Redis für die Datenpersistierung zu verwenden. Das Projekt besteht aus zwei Anwendungen, nämlich dem Storefront und dem Admin-Panel. Unsere Aufgabe besteht darin, beide Anwendungen einzurichten. Dies erfordert einige Konfigurationsschritte. Wir sind auf einige Schwierigkeiten im Zusammenhang mit den Node-package und den Versionen von Medusa JS gestossen. Nachdem beide Anwendungen funktionstüchtig waren, konnten wir die Seite mit unseren Daten befüllen.
+
+## Einrichtung
+
+- node installieren
+- projekt clonen
+- npm install in beiden Projekten
+- npm run dev in beiden Projekten
+
+
 ## Fazit & Reflexion
 
 ### Oliver 
